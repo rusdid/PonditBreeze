@@ -1,0 +1,22 @@
+{
+    "name": "rusdid/pondit-breeze",
+    "description": "this is a test",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Mian Zadid Rusdid",
+            "email": "rusdid@gmail.com"
+        }
+    ],
+    "repositories": [
+        {
+          "type": "vcs",
+          "url": "https://github.com/rusdid/PonditBreeze.git"
+        }
+      ],
+    "minimum-stability": "dev",
+    "require": {
+        "rusdid/PonditBreeze": "dev-master"
+    }
+}
